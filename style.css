@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(249, 249, 247);
+    font-family: sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+  
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+li {
+    text-align: left;
+    cursor: pointer; 
+    margin-top: 20px;
+}
+
+fieldset {
+    border-radius: 5px;
+    width: 500px;
+    margin: 30px;
+}
+  
+legend {
+    padding: 10px;
+}
+  
